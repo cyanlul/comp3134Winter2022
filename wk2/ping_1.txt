@@ -1,0 +1,3 @@
+64 bytes from lamp-ubuntu-s-1vcpu-1gb-tor1-01 (127.0.1.1): icmp_seq=6 ttl=64 time=0.052 ms
+64 bytes from lamp-ubuntu-s-1vcpu-1gb-tor1-01 (127.0.1.1): icmp_seq=7 ttl=64 time=0.060 ms
+64 bytes from lamp-ubuntu-s-1vcpu-1gb-tor1-01 (127.0.1.1): icmp_seq=8 ttl=64 time=0.050 ms

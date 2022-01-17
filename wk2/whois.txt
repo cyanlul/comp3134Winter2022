@@ -1,0 +1,61 @@
+twitter.com
+
+Name: Twitter, Inc.
+Organization: Twitter, Inc.
+Address: 1355 Market Street
+City: San Francisco
+State/Province: CA
+Postal Code: 94103
+Country: US
+Phone: +1.4152229670
+Fax: +1.4152220922
+Email: domains@twitter.com
+
+facebook.com
+
+Name: Domain Admin
+Organization: Facebook, Inc.
+Address: 1601 Willow Rd
+City: Menlo Park
+State/Province: CA
+Postal Code: 94025
+Country: US
+Phone: +1.6505434800
+Fax: +1.6505434800
+Email: domain@fb.com
+
+google.ca
+
+Name: Google LLC - TMA868122
+Address: 1600 Amphitheatre Parkway
+City: Mountain View
+State/Province: CA
+Postal Code: 94043
+Country: US
+Phone: +1.6502530000
+Email: dns-admin@google.com
+
+bing.com
+
+Name: Domain Administrator
+Organization: Microsoft Corporation
+Address: One Microsoft Way,
+City: Redmond
+State/Province: WA
+Postal Code: 98052
+Country: US
+Phone: +1.4258828080
+Fax: +1.4259367329
+Email: domains@microsoft.com
+
+twitch.com
+
+Name: Twitch Hostmaster
+Organization: Twitch Interactive, Inc.
+Address: 225 Bush Street, 6th Floor,
+City: San Francisco
+State/Province: CA
+Postal Code: 94104
+Country: US
+Phone: +1.4156926927
+Email: hostmaster@amazon.com

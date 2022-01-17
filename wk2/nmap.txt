@@ -1,0 +1,46 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap lamp-ubuntu-s-1vcpu-1gb-tor1-01
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 13:44 UTC
+Nmap scan report for lamp-ubuntu-s-1vcpu-1gb-tor1-01 (127.0.1.1)
+Host is up (0.0000040s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 1 lamp-ubuntu-s-1vcpu-1gb-tor1-01
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 13:49 UTC
+Nmap scan report for lamp-ubuntu-s-1vcpu-1gb-tor1-01 (127.0.1.1)
+Host is up (0.000052s latency).
+
+PORT  STATE  SERVICE
+1/tcp closed tcpmux
+
+Nmap done: 1 IP address (1 host up) scanned in 0.06 seconds
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -p 1-2 lamp-ubuntu-s-1vcpu-1gb-tor1-01
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 13:50 UTC
+Nmap scan report for lamp-ubuntu-s-1vcpu-1gb-tor1-01 (127.0.1.1)
+Host is up (0.000047s latency).
+
+PORT  STATE  SERVICE
+1/tcp closed tcpmux
+2/tcp closed compressnet
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# nmap -F lamp-ubuntu-s-1vcpu-1gb-tor1-01
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-01-17 13:53 UTC
+Nmap scan report for lamp-ubuntu-s-1vcpu-1gb-tor1-01 (127.0.1.1)
+Host is up (0.0000040s latency).
+Not shown: 97 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+
+Nmap done: 1 IP address (1 host up) scanned in 0.04 seconds
+
+

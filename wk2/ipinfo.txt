@@ -1,0 +1,24 @@
+amazon.ca
+
+IP Address: 54.239.18.172
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn
+
+reddit.com
+
+IP Address: 151.101.65.140
+Geolocation: US (United States), CA, California, 94107 San Francisco
+
+yahoo.com
+
+IP Address: 98.137.11.164
+Geolocation: US (United States), CA, California, 94089 Sunnyvale
+
+netflix.com
+
+IP Address: 52.3.144.142
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn
+
+instagram.com
+
+IP Address: 157.240.241.174
+Geolocation: US (United States), CA, California, 94025 Menlo Park
