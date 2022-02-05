@@ -1,0 +1,32 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -XX -i eth0
+        0x0040:  a800 fa2e d3d6 9bdf 6e11 0e20 579b 38a9  ........n...W.8.
+        0x0050:  8660 f698 d687 42c8 2564 34e7 e0d2 887a  .`....B.%d4....z
+        0x0060:  4f54 8687 fe29 2f29 02ab 3355 55f3 6723  OT...)/)..3UU.g#
+        0x0070:  00ec 2336 6b47 bbd7 61dc 114c 3d22 2ba1  ..#6kG..a..L="+.
+        0x0080:  d202 531d 1bfc d686 8449 6924 20b2 572e  ..S......Ii$..W.
+        0x0090:  904f 9ab6 450f 78b1 d66b 9f73 7e22 a3d8  .O..E.x..k.s~"..
+        0x00a0:  9254 a669 06a6 3a74 c357 7b86 2eac a814  .T.i..:t.W{.....
+        0x00b0:  48e1 eca3 be43 ac08 e244 e14f c168 e341  H....C...D.O.h.A
+        0x00c0:  0e2b c5fb 67fb 26dd e733 7b17 02ff 7785  .+..g.&..3{...w.
+        0x00d0:  417a 3986 d093 3d08 d00c 24ad 9c6e 7778  Az9...=...$..nwx
+        0x00e0:  5533 740e 2dfd c3a6 e63f 5df2 f0ea bd6d  U3t.-....?]....m
+        0x00f0:  ea65 c8b8 4ace 62e4 00ef b4f2 8f40 0763  .e..J.b......@.c
+        0x0100:  a884 66f3 18f7 8ed3 081d 3969 a224 c94c  ..f.......9i.$.L
+        0x0110:  6e67 c408 dbd9 8b70 d846 6510 ae3f e4a7  ng.....p.Fe..?..
+        0x0120:  82d0 a78b 70d1 d907 8005 b23d a3b6 bfc4  ....p......=....
+        0x0130:  0a61 aacb 56a7 4d17 9784 b2a9 b025 67ab  .a..V.M......%g.
+        0x0140:  5ab1 5b37 1d7f 7656 15fa bfb2 3e47 9ef6  Z.[7..vV....>G..
+        0x0150:  a28e 3217 4b3a 1fd1 5afa ae41 a9b2 942a  ..2.K:..Z..A...*
+        0x0160:  1035 53d4 8336 ef0a d35b bfd5 a285 8464  .5S..6...[.....d
+        0x0170:  4bdd e066 4117 7d84 ddd9 812d f493 c819  K..fA.}....-....
+        0x0180:  4bb2 86d6 a939 c884 980d 548d fb5e b7d1  K....9....T..^..
+        0x0190:  7a89 1c54 b9e9 f4ba 2265 6863 055e c30e  z..T...."ehc.^..
+        0x01a0:  d0fb 7ba6 80ba fa0d 2662 3a9d b140 d7b5  ..{.....&b:..@..
+        0x01b0:  c4c7 8d95 0f25 6e6a 9a0c fd97 3b89 a836  .....%nj....;..6
+        0x01c0:  81f6 fe62 5030 1bbc bcbb 2ef0 f4b8 8122  ...bP0........."
+        0x01d0:  cb8a 7f0e f50e 46ba 4cfe cd5c 9d03 c85a  ......F.L..\...Z
+        0x01e0:  9d34 5b5b cc6b 3b02 b346 586e 2813 e2c3  .4[[.k;..FXn(...
+        0x01f0:  52eb 302d f15f 30c1 8c20 bdec 5fcd 1b83  R.0-._0....._...
+        0x0200:  2da5 0bf1 a8d9 9cca 390b 5e39 5115 792a  -.......9.^9Q.y*
+        0x0210:  01af                                     ..
+19:08:27.113604 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe08a7c0996b28-cm08a7c0996b26.cpe.net.cable.rogers.com.63555: Flags [P.], seq 606004:606424, ack 145, win 501, length 420

@@ -1,0 +1,9 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+19:09:35.704060 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe08a7c0996b28-cm08a7c0996b26.cpe.net.cable.rogers.com.63555: Flags [P.], seq 3772021893:3772021937, ack 148107390, win 501, length 44
+19:09:35.704166 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe08a7c0996b28-cm08a7c0996b26.cpe.net.cable.rogers.com.63555: Flags [P.], seq 44:152, ack 1, win 501, length 108
+19:09:35.704238 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > cpe08a7c0996b28-cm08a7c0996b26.cpe.net.cable.rogers.com.63555: Flags [P.], seq 152:188, ack 1, win 501, length 36
+19:09:35.713751 IP cpe08a7c0996b28-cm08a7c0996b26.cpe.net.cable.rogers.com.63555 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 44, win 8788, length 0
+19:09:35.713751 IP cpe08a7c0996b28-cm08a7c0996b26.cpe.net.cable.rogers.com.63555 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 188, win 8794, length 0
+19:09:36.129307 IP 192-227-229-178-host.colocrossing.com.47560 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.2375: Flags [S], seq 4195780409, win 1024, length 0
+19:09:38.404357 IP 193.57.40.49.57063 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.3637: Flags [S], seq 800902181, win 1024, length 0
