@@ -1,0 +1,4 @@
+1) When I type a valid english word the page changes to the url with that word.
+2) When I type a invalid word I get redirected to a no results found page under the misspelling parameters.
+3) When I enter the script given I get redirected to a results for page under the no result parameter.
+4) When I enter the script given I end up on the same page as question 3.

@@ -1,0 +1,1 @@
+html entities converts the html tags into an html entity and strip tags removes html or php tags from the string
