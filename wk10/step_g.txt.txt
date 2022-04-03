@@ -1,0 +1,1 @@
+I will put everything in the php tag and convert all the html comments into php comments so it would appear on the browser.

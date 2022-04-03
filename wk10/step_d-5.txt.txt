@@ -1,0 +1,3 @@
+Shows file directories in www
+
+Shows all the file directories to the user
